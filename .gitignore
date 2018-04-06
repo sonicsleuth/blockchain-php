@@ -53,3 +53,5 @@ fabric.properties
 
 /.idea/blockchain-php.iml
 /.idea/vcs.xml
+/.idea/php.xml
+/.idea/misc.xml
